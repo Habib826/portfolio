@@ -15,7 +15,7 @@ const About = () => {
                         </div>
                         <div className="col-md-7 d-flex flex-column align-items-center mt-5">
                             <div>
-                            <p style={{ color: 'white' }}>Hello I'm Habib, dolor sit amet consectetur adipisicing elit. In omnis quibusdam facilis
+                            <p style={{ color: 'white' }}>Hello, I'm <span style={{color:'orange', fontWeight:'bold'}}>Habib</span>, dolor sit amet consectetur adipisicing elit. In omnis quibusdam facilis
                             tempore expedita vel corrupti tenetur doloribus unde numquam ea, dolorem nisi eaque cupiditate,
                             nostrum officia consectetur suscipit perferendis voluptatibus deleniti vitae. Voluptate optio corrupti illo,
                             culpa sit molestias atque commodi laboriosam! Dicta harum ea consectetur quisquam rem facere, minus magnam perspiciatis? Ab dolor atque placeat explicabo expedita velit esse aspernatur quas tempora deserunt mollitia quidem fugiat

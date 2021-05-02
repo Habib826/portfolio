@@ -16,7 +16,8 @@ const Navbar = () => {
       <nav  className="navbar navbar-expand-lg fixed-top navbar-light  bg-dark">
        <div className="container">
        <div>
-       <img src={Logo} className="w-50" alt=""/>
+       <a className="nav-link"  href="#"><img src={Logo} className="w-50 image" alt=""/></a>
+       
        </div>  
         <div>
         <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">

@@ -28,8 +28,8 @@ const Projects = () => {
                             <div class="card-body">
                                 <h5 className="card-title">GADGET&GEAR</h5>
                                 <p class="card-text">Some quick example </p>
-                                <a href="" target="_blank" className="btn-main-offer">Live</a>
-                                <a href="" target="_blank" className="btn-main-offer">Code</a>
+                                <a href="https://gadget-gear.web.app/" target="_blank" className="btn-main-offer">Live</a>
+                                <a href="https://github.com/Habib826/Gadget-Gear" target="_blank" className="btn-main-offer">Code</a>
                             </div>
                         </div>
                     </Slide>
@@ -50,7 +50,7 @@ const Projects = () => {
                                 <h5 className="card-title">TIME-ZONE</h5>
                                 <p class="card-text">Some quick example </p>
                                 <a href="https://time-zone-31681.web.app/" target="_blank" className="btn-main-offer">Live</a>
-                                <a href="" target="_blank" className="btn-main-offer">Code</a>
+                                <a href="https://github.com/Habib826/Time-Zone" target="_blank" className="btn-main-offer">Code</a>
 
                             </div>
                         </div>
@@ -71,8 +71,8 @@ const Projects = () => {
                                         <div class="card-body">
                                             <h5 className="card-title">TEAM TRACKER</h5>
                                             <p class="card-text">Some quick example </p>
-                                            <a href="" target="_blank" className="btn-main-offer">Live</a>
-                                            <a href="" target="_blank" className="btn-main-offer">Code</a>
+                                            <a href="https://awesome-varahamihira-e76e2d.netlify.app/" target="_blank" className="btn-main-offer">Live</a>
+                                            <a href="https://github.com/Habib826/Team-tracker" target="_blank" className="btn-main-offer">Code</a>
                                         </div>
                                     </div>
                                 </Slide>
