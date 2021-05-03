@@ -15,14 +15,13 @@ const About = () => {
                         </div>
                         <div className="col-md-7 d-flex flex-column align-items-center mt-5">
                             <div>
-                            <p style={{ color: 'white' }}>Hello, I'm <span style={{color:'orange', fontWeight:'bold'}}>Habib</span>, dolor sit amet consectetur adipisicing elit. In omnis quibusdam facilis
-                            tempore expedita vel corrupti tenetur doloribus unde numquam ea, dolorem nisi eaque cupiditate,
-                            nostrum officia consectetur suscipit perferendis voluptatibus deleniti vitae. Voluptate optio corrupti illo,
-                            culpa sit molestias atque commodi laboriosam! Dicta harum ea consectetur quisquam rem facere, minus magnam perspiciatis? Ab dolor atque placeat explicabo expedita velit esse aspernatur quas tempora deserunt mollitia quidem fugiat
-                            deleniti doloremque corrupti ullam voluptatibus architecto, ea nam. Molestias aliquid nisi fugit.
+                            <p style={{ color: 'white' }}>Hello, I'm <span style={{color:'orange', fontWeight:'bold'}}>Habib</span>, a web developer. A self-motivated and enthusiastic web developer with a deep interest in JavaScript. I can create modern
+                             & responsive web sites/applications with high quality and professional look. As every website/application 
+                             that represents a business plays a very important role in its growth. That's why I treat every website according
+                              to its nature.
                             </p>
                             </div>
-                            <div className="row mt-3">
+                            <div className="row mt-5">
                                 <a href="https://drive.google.com/file/d/1YtoNrAwFIFCfJmw7DzI86eYxfUXFDtLI/view?usp=sharing" download target="_blank" className="btn-main-offer">Resume</a>
                                 <a href="https://www.linkedin.com/in/mohammad-habib-695079211/" target="_blank" className="btn-main-offer">LinkedIn</a>
                                 <a href="https://github.com/Habib826" target="_blank" className="btn-main-offer">Github</a>

@@ -6,7 +6,7 @@ const Header = () => {
     return (
         <div className="header-wrap pb-5">
            <div className="main-info">
-               <h1>Welcome to my Portfolio</h1>
+               <h1><span style={{color:'white'}}>Hello, I'm </span> <span style={{fontWeight:'bold'}}>Mohammad Habib</span> .</h1>
                <Typed
                className="typed-text"
                strings={["Web developer", "Web Designer"]}
@@ -14,7 +14,7 @@ const Header = () => {
                backSpeed={60}
                loop
                />
-               <a href="#contact" className="btn-main-offer">Contact Me</a>
+               <a href="https://drive.google.com/file/d/1YtoNrAwFIFCfJmw7DzI86eYxfUXFDtLI/view?usp=sharing" target="_blank" className="btn-main-offer" download>Resume</a>
             </div>
         </div>
     );

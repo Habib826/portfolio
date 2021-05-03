@@ -35,7 +35,7 @@ const Navbar = () => {
               <a className="nav-link" style={{color: 'white'}} href="#project">Projects</a>
               </li>
               <li className="nav-item">
-               <a className="nav-link" style={{color: 'white'}} href="https://drive.google.com/file/d/1YtoNrAwFIFCfJmw7DzI86eYxfUXFDtLI/view?usp=sharing" download>Resume</a>
+               <a className="nav-link" style={{color: 'white'}} href="#contact">Contact</a>
               </li>
             </ul>
         </div>

@@ -14,70 +14,96 @@ const Projects = () => {
         <div className="project" id="project" style={{ color: 'white' }}>
             <div className="container pb-5">
                 <div className="text-center pt-5">
-
                 </div>
                 <div className="text-center">
                     <h1 style={{ color: 'orange' }}>PROJECTS</h1>
                 </div>
 
-
                 <div className="row d-flex justify-content-around mt-5 text-center">
                     <Slide right>
-                        <div className="card mb-4" style={{ width: '22rem' }}>
-                            <img src={Project1} className="card-img-top" alt="" />
-                            <div class="card-body">
-                                <h5 className="card-title">GADGET&GEAR</h5>
-                                <p class="card-text">Some quick example </p>
+                        <div className="slider">
+                            <div className="card mb-4" style={{ width: '22rem' }}>
+                                <img src={Project1} className="card-img-top img" alt="" />
+                                <div class="card-body">
+                                    <h5 className="card-title">GADGET&GEAR</h5>
+                                    <p class="card-text">Some quick example </p>
+                                   
+                                </div>
+                            </div>
+                            <div>
+                                <p className="paragraph pt-5">
+                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo molestiae, sit necessitatibus accusamus soluta repellat debitis suscipit minima voluptate minus?
+                                <div className="row mb-3">
                                 <a href="https://gadget-gear.web.app/" target="_blank" className="btn-main-offer">Live</a>
-                                <a href="https://github.com/Habib826/Gadget-Gear" target="_blank" className="btn-main-offer">Code</a>
+                                 <a href="https://github.com/Habib826/Gadget-Gear" target="_blank" className="btn-main-offer">Code</a>
+                                </div>
+                                </p>
                             </div>
                         </div>
                     </Slide>
 
                     <Slide bottom>
-                        <div className="card mb-4" style={{ width: '22rem' }}>
-                        <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
-                                <div class="carousel-inner">
-                                    <div class="carousel-item active">
-                                        <img class="d-block w-100" src={Project2_1} alt="First slide"/>
-                                   </div>
-                                        <div class="carousel-item">
-                                            <img class="d-block w-100" src={Project2_2} alt="Second slide"/>
+                        <div className="slider">
+                            <div className="card mb-4" style={{ width: '22rem' }}>
+                                <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
+                                    <div class="carousel-inner">
+                                        <div class="carousel-item active">
+                                            <img class="d-block w-100" src={Project2_1} alt="First slide" />
                                         </div>
-                                   </div>
+                                        <div class="carousel-item">
+                                            <img class="d-block w-100" src={Project2_2} alt="Second slide" />
+                                        </div>
+                                    </div>
                                 </div>
-                            <div class="card-body">
-                                <h5 className="card-title">TIME-ZONE</h5>
-                                <p class="card-text">Some quick example </p>
-                                <a href="https://time-zone-31681.web.app/" target="_blank" className="btn-main-offer">Live</a>
-                                <a href="https://github.com/Habib826/Time-Zone" target="_blank" className="btn-main-offer">Code</a>
+                                <div class="card-body">
+                                    <h5 className="card-title">TIME-ZONE</h5>
+                                    <p class="card-text">Some quick example </p>
+                                </div>
+                            </div>
+                            <div>
+                                <p className="paragraph pt-5">
+                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo molestiae, sit necessitatibus accusamus soluta repellat debitis suscipit minima voluptate minus?
+                                 <div className="row mb-3">
+                                 <a href="https://time-zone-31681.web.app/" target="_blank" className="btn-main-offer">Live</a>
+                                 <a href="https://github.com/Habib826/Time-Zone" target="_blank" className="btn-main-offer">Code</a>
 
+                                 </div>
+                                </p>
                             </div>
                         </div>
                     </Slide>
 
                     <Slide left>
-                        <div className="card mb-4" style={{ width: '22rem' }}>
-                            <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
-                                <div class="carousel-inner">
-                                    <div class="carousel-item active">
-                                        <img class="d-block w-100" src={Project3_1} alt="First slide"/>
-                                   </div>
+                        <div className="slider">
+                            <div className="card mb-4" style={{ width: '22rem' }}>
+                                <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
+                                    <div class="carousel-inner">
+                                        <div class="carousel-item active">
+                                            <img class="d-block w-100" src={Project3_1} alt="First slide" />
+                                        </div>
                                         <div class="carousel-item">
-                                            <img class="d-block w-100" src={Project3_2} alt="Second slide"/>
-                                        </div>
-                                            </div>
-                                        </div>
-                                        <div class="card-body">
-                                            <h5 className="card-title">TEAM TRACKER</h5>
-                                            <p class="card-text">Some quick example </p>
-                                            <a href="https://awesome-varahamihira-e76e2d.netlify.app/" target="_blank" className="btn-main-offer">Live</a>
-                                            <a href="https://github.com/Habib826/Team-tracker" target="_blank" className="btn-main-offer">Code</a>
+                                            <img class="d-block w-100" src={Project3_2} alt="Second slide" />
                                         </div>
                                     </div>
-                                </Slide>
+                                </div>
+                                <div class="card-body">
+                                    <h5 className="card-title">TEAM TRACKER</h5>
+                                    <p class="card-text">Some quick example </p>
+                                </div>
                             </div>
+                                <div>
+                                    <p className="paragraph pt-5">
+                                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo molestiae, sit necessitatibus accusamus soluta repellat debitis suscipit minima voluptate minus?
+                                   <div className="row mb-3">
+                                   <a href="https://awesome-varahamihira-e76e2d.netlify.app/" target="_blank" className="btn-main-offer">Live</a>
+                                    <a href="https://github.com/Habib826/Team-tracker" target="_blank" className="btn-main-offer">Code</a>
+                                   </div>
+                                    </p>
+                                </div>
                         </div>
+                    </Slide>
+                </div>
+            </div>
         </div>
     );
 };
