@@ -26,21 +26,21 @@ const ContactForm = () => {
                  type="text" 
                  name="user_name"
                  placeholder="Name"
-                 size="20"
+                 size="30"
                  /><br />
                 <input 
                 className="field"
                 type="email" 
                 name="user_email" 
                 placeholder="Email"
-                size="20"
+                size="30"
                 /><br />
                 <textarea 
                 className="field"
                 name="message"
                 placeholder="Message"
                 rows="3"
-                cols="25"
+                cols="35"
                 /><br />
                 <input type="submit" className="btn-main-offer" style={{color:'black'}} value="Send" />
             </form>

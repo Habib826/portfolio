@@ -32,7 +32,8 @@ const Projects = () => {
                             </div>
                             <div>
                                 <p className="paragraph pt-5">
-                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo molestiae, sit necessitatibus accusamus soluta repellat debitis suscipit minima voluptate minus?
+                                    Gadget&Gear is an online store where a user can buy products and 
+                                    view/delete his/her previous orders by logging in.The project has an admin panel so new products can be added and deleted.
                                 <div className="row mb-3">
                                 <a href="https://gadget-gear.web.app/" target="_blank" className="btn-main-offer">Live</a>
                                  <a href="https://github.com/Habib826/Gadget-Gear" target="_blank" className="btn-main-offer">Code</a>
@@ -62,7 +63,9 @@ const Projects = () => {
                             </div>
                             <div>
                                 <p className="paragraph pt-5">
-                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo molestiae, sit necessitatibus accusamus soluta repellat debitis suscipit minima voluptate minus?
+                                  Time-ZOne is a web application to provide some watch related services to customers.
+                                  User can log in with their Gmail to order a service, can track his/her booked services and can write a review.
+                                  
                                  <div className="row mb-3">
                                  <a href="https://time-zone-31681.web.app/" target="_blank" className="btn-main-offer">Live</a>
                                  <a href="https://github.com/Habib826/Time-Zone" target="_blank" className="btn-main-offer">Code</a>
@@ -93,7 +96,7 @@ const Projects = () => {
                             </div>
                                 <div>
                                     <p className="paragraph pt-5">
-                                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo molestiae, sit necessitatibus accusamus soluta repellat debitis suscipit minima voluptate minus?
+                                       Team Tracker  is an assistant to find your favourite teams.Used React js, Bootstarp, Material UI.
                                    <div className="row mb-3">
                                    <a href="https://awesome-varahamihira-e76e2d.netlify.app/" target="_blank" className="btn-main-offer">Live</a>
                                     <a href="https://github.com/Habib826/Team-tracker" target="_blank" className="btn-main-offer">Code</a>

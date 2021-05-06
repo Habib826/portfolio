@@ -15,10 +15,14 @@ const About = () => {
                         </div>
                         <div className="col-md-7 d-flex flex-column align-items-center mt-5">
                             <div>
-                            <p style={{ color: 'white' }}>Hello, I'm <span style={{color:'orange', fontWeight:'bold'}}>Habib</span>, a web developer. A self-motivated and enthusiastic web developer with a deep interest in JavaScript. I can create modern
+                            <p className="about-para" style={{ color: 'white' }}>Hello, I'm <span style={{color:'orange', fontWeight:'bold'}}>Habib</span>, a web developer. A self-motivated and enthusiastic web developer with a deep interest in JavaScript. I can create modern
                              & responsive web sites/applications with high quality and professional look. As every website/application 
                              that represents a business plays a very important role in its growth. That's why I treat every website according
                               to its nature.
+                              <h4 class="mt-4">Email</h4>
+                              <p>habib826826@gmail.com</p>
+                              <h4>Adress</h4>
+                              <p>Tangail, Dhaka, Bangladesh</p>
                             </p>
                             </div>
                             <div className="row mt-5">
