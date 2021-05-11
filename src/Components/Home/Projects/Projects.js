@@ -26,7 +26,7 @@ const Projects = () => {
                                 <img src={Project1} className="card-img-top img" alt="" />
                                 <div class="card-body">
                                     <h5 className="card-title">GADGET&GEAR</h5>
-                                    <p class="card-text">Some quick example </p>
+                                    <p class="card-text">Gadget abd Gear Store</p>
                                    
                                 </div>
                             </div>
@@ -58,7 +58,7 @@ const Projects = () => {
                                 </div>
                                 <div class="card-body">
                                     <h5 className="card-title">TIME-ZONE</h5>
-                                    <p class="card-text">Some quick example </p>
+                                    <p class="card-text">Watch Shop </p>
                                 </div>
                             </div>
                             <div>
@@ -91,7 +91,7 @@ const Projects = () => {
                                 </div>
                                 <div class="card-body">
                                     <h5 className="card-title">TEAM TRACKER</h5>
-                                    <p class="card-text">Some quick example </p>
+                                    <p class="card-text">Choose Your Team</p>
                                 </div>
                             </div>
                                 <div>
